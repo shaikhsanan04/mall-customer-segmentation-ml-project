@@ -734,7 +734,7 @@ if show_predictor:
                        s=40, color=c, alpha=0.4, edgecolors="none")
 
         ax.scatter(input_income, input_spend,
-                   s=350, color=color, marker="★", edgecolors="white",
+                   s=350, color=color, marker="*", edgecolors="white",
                    linewidths=1.5, zorder=10, label="You are here")
         ax.set_title("Your position on the Customer Map",
                      color="#e2e8f0", fontsize=12, fontweight="bold")
