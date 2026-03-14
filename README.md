@@ -105,3 +105,4 @@ jupyter lab
 ## 🔗 Connect
 
 **GitHub:** [shaikhsanan04](https://github.com/shaikhsanan04)
+**Live App** [https://mall-customer-segmentation-ml.streamlit.app/]
